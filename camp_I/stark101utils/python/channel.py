@@ -18,7 +18,7 @@
 import inspect
 from hashlib import sha256
 
-from stark101.field import FieldElement
+from stark101utils.python.field import FieldElement
 
 
 def serialize(obj):
